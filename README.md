@@ -1,17 +1,8 @@
-# E-commerce Clone App UI
+# E-commerce App UI
 
-- [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
-- [Watch on Youtube](https://www.youtube.com/watch?v=ZT4KJKzxUj0)
+- [My Linkedin](https://www.linkedin.com/in/sangvaleap-vanny-353b25aa/)
 
-![App UI](https://user-images.githubusercontent.com/16510597/113294576-5b4e6400-9321-11eb-8940-68e1223b4b0f.jpg)
-
-## GET A Full Project Source Code
-
-- [Download Source Code](https://www.patreon.com/posts/e-commerce-ui-49272877)
-
-![App UI](https://user-images.githubusercontent.com/16510597/113295090-f0e9f380-9321-11eb-8736-9ee5c291e471.png)
-
-A new Flutter project.
+- Email: sangvaleap.vanny@gmail.com
 
 ## Getting Started
 
