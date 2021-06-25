@@ -1,7 +1,6 @@
 # E-commerce App UI
 
 - [My Linkedin](https://www.linkedin.com/in/sangvaleap-vanny-353b25aa/)
-
 - Email: sangvaleap.vanny@gmail.com
 
 ## Getting Started
