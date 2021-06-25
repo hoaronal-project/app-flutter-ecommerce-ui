@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_icons/flutter_icons.dart';
 import 'package:shopping_ui/json/constant.dart';
 import 'package:shopping_ui/theme/colors.dart';
 import 'package:shopping_ui/widgets/custom_slider.dart';
@@ -32,27 +31,27 @@ class _HomePageState extends State<HomePage> {
                   image: DecorationImage(
                       image: NetworkImage(homeImg), fit: BoxFit.cover)),
             ),
-            Padding(
-              padding: const EdgeInsets.only(top: 35, right: 10),
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.end,
-                children: [
-                  Icon(
-                    Icons.favorite_border,
-                    color: white,
-                    size: 25,
-                  ),
-                  SizedBox(
-                    width: 15,
-                  ),
-                  Icon(
-                    Feather.search,
-                    color: white,
-                    size: 25,
-                  ),
-                ],
-              ),
-            ),
+            // Padding(
+            //   padding: const EdgeInsets.only(top: 35, right: 10),
+            //   child: Row(
+            //     mainAxisAlignment: MainAxisAlignment.end,
+            //     children: [
+            //       Icon(
+            //         Icons.star_border,
+            //         color: white,
+            //         size: 25,
+            //       ),
+            //       // SizedBox(
+            //       //   width: 15,
+            //       // ),
+            //       // Icon(
+            //       //   Feather.search,
+            //       //   color: white,
+            //       //   size: 25,
+            //       // ),
+            //     ],
+            //   ),
+            // ),
             Positioned(
               bottom: 20,
               child: Padding(

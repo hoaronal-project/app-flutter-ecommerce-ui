@@ -3,7 +3,7 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 const String APP_TITLE = 'SHOP UI';
 const String homeImg =
-    'https://images.unsplash.com/photo-1572804013427-4d7ca7268217?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60';
+    'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60';
 
 const String profileUrl =
     "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixid=MXwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0N3x8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60";
@@ -17,7 +17,7 @@ const List<Map<String, Object>> categories = [
   {
     'title': 'Men',
     'imgUrl':
-        'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60',
+        'https://images.unsplash.com/photo-1614252369475-531eba835eb1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60',
   },
   {
     'title': 'Women',
@@ -206,9 +206,9 @@ List menusMore = [
 List itemsTab = [
   {"icon": Icons.home, "size": 28.0},
   {"icon": FontAwesomeIcons.mapMarkerAlt, "size": 22.0},
-  {"icon": FontAwesomeIcons.userAlt, "size": 21.0},
   {"icon": FontAwesomeIcons.shoppingBag, "size": 22.0},
-  {"icon": Icons.more_horiz, "size": 40.0},
+  {"icon": Icons.notifications, "size": 28.0},
+  {"icon": FontAwesomeIcons.userAlt, "size": 21.0},
 ];
 
 List accountList = [
@@ -218,20 +218,21 @@ List accountList = [
   "Delivery Information",
   "Payment Information",
   "Language",
-  "Privacy Settings"
+  "Privacy Settings",
+  "Logout"
 ];
 
 List storeList = [
   {
     "img":
-        "https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-    "name": "Toulkok, Phnom Penh",
+        "https://images.unsplash.com/photo-1477901492169-d59e6428fc90?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+    "name": "7Makara, Phnom Penh",
     "open": 1
   },
   {
     "img":
-        "https://images.unsplash.com/photo-1477901492169-d59e6428fc90?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-    "name": "7Makara, Phnom Penh",
+        "https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+    "name": "Toulkok, Phnom Penh",
     "open": 0
   },
   {

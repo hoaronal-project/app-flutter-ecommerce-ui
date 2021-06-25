@@ -99,7 +99,7 @@ class _StorePageState extends State<StorePage> {
             ),
           ),
           SizedBox(
-            height: 40,
+            height: 20,
           ),
           Divider(color: grey.withOpacity(0.8)),
           SizedBox(

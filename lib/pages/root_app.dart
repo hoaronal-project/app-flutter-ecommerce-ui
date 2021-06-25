@@ -32,9 +32,10 @@ class _RootAppState extends State<RootApp> {
       children: [
         HomePage(),
         StorePage(),
-        AccountPage(),
         CartPage(),
-        MorePage()
+        Container(),
+        AccountPage(),
+        // MorePage(),
       ],
     );
   }
@@ -52,7 +53,7 @@ class _RootAppState extends State<RootApp> {
           elevation: 0.8,
           backgroundColor: white,
           title: Text(
-            "ACCOUNT",
+            "CART",
             style: TextStyle(color: black),
           ),
         );
@@ -62,7 +63,7 @@ class _RootAppState extends State<RootApp> {
           elevation: 0.8,
           backgroundColor: white,
           title: Text(
-            "CART",
+            "NOTIFICATION",
             style: TextStyle(color: black),
           ),
         );
@@ -72,11 +73,21 @@ class _RootAppState extends State<RootApp> {
           elevation: 0.8,
           backgroundColor: white,
           title: Text(
-            "MORE",
+            "ACCOUNT",
             style: TextStyle(color: black),
           ),
         );
         break;
+      // case 5:
+      //   return AppBar(
+      //     elevation: 0.8,
+      //     backgroundColor: white,
+      //     title: Text(
+      //       "MORE",
+      //       style: TextStyle(color: black),
+      //     ),
+      //   );
+      //   break;
       default:
     }
   }
