@@ -1,6 +1,8 @@
 # E-commerce App UI
 
 - [My Linkedin](https://www.linkedin.com/in/sangvaleap-vanny-353b25aa/)
+- [My Upwork](https://www.upwork.com/freelancers/~01482fe63544bbcb48)
+- [My Instagram](https://www.instagram.com/sangvaleap.v/)
 - Email: sangvaleap.vanny@gmail.com
 
 ![Screen_Shot_2021-06-25_at_4.14.22_PM](/uploads/1ef3e50474ca96b4a9ee3abcfb779665/Screen_Shot_2021-06-25_at_4.14.22_PM.png)
