@@ -10,7 +10,7 @@
 ![Screen_Shot_2021-06-25_at_4.18.24_PM](/uploads/0b778e1d1cc240ff86947b4e09d7b7c3/Screen_Shot_2021-06-25_at_4.18.24_PM.png)
 ![Screen_Shot_2021-06-25_at_4.15.01_PM](/uploads/816d9aa7f55cb42579902d430909e453/Screen_Shot_2021-06-25_at_4.15.01_PM.png)
 ![Screen_Shot_2021-06-25_at_4.15.08_PM](/uploads/c3f3f67bf5fb1cefceaa79581edc91bb/Screen_Shot_2021-06-25_at_4.15.08_PM.png)
-![Screen_Shot_2021-06-25_at_4.15.19_PM](/uploads/ac0d4dfe0918024fff3d40256a6e1dbc/Screen_Shot_2021-06-25_at_4.15.19_PM.png)
+![ecom6](/uploads/ae69fff51200f384d39baaa8b7739644/ecom6.png)
 
 ## Getting Started
 
